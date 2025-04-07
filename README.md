@@ -10,5 +10,5 @@ A simple Netflix landing page clone using only HTML and CSS
 ## How to use
 Just open `index.html` in any browser.
 
-## Demo
-*Live demo link coming soon...*
+## Author
+Shaik Zaheer
